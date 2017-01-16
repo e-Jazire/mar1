@@ -11,5 +11,7 @@ return array(
     'click-here' => 'کلیک نمایید',
     'home' => 'صفحه اصلی',
     'about-us' => 'درباره ما',
+    'countact-us' => 'تماس با ما',
+
 
 );
