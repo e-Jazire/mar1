@@ -53,7 +53,7 @@
 
                             <span class="top-info-contact">
                                 <form method="post" action="{{  }}">
-                                    <select>
+                                    <select name="locale">
                                         <option value="fa">فارسی</option>
                                         <option value="ar">العربیه</option>
                                         <option value="en">English</option>
