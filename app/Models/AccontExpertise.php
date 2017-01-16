@@ -7,5 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class AccontExpertise extends Model
 {
     protected $table='account_expertise';
+    protected $table1='account_expertise';
 //    test;
 }
